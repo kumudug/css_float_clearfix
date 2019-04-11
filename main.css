@@ -1,0 +1,7 @@
+.floating-img{
+    float: right;
+}
+
+.clearfix{
+    clear: both;
+}
